@@ -4,7 +4,4 @@
 ## Всем привет, меня зовут Абду, я живу в Узбекистане, мне 16 и я работаю в HTML,CSS,C++,Python и JavaScript. Мечтаю получить Senior Certificate. Я начал публичную работу в IT с 18.07.2022. И это все, что я могу рассказать о себе
 
 # My contact information:
-# <a href="https://Instagram.com/abdu._uyghur"><img src="https://imgur.com/YLW9pyA.jpg" alt="My Instagram"/></a>
-## ![me](https://imgur.com/WopTsdt.jpg)| <i><a href="https://Instagram.com/abdu._uyghur">My Instagram</a></i> <b>|</b>
-## | <i><a href="https://t.me/abdu_uyghur">My Telegram</a></i> <b>|</b>
-## | <i><a href="https://t.me/AbduTools">My Channel</a></i> <b>|</b>
+# <a href="https://Instagram.com/abdu._uyghur"><img src="https://imgur.com/YLW9pyA.jpg" alt="My Instagram"/></a><a href="https://t.me/abdu_uyghur"><img src="https://imgur.com/1hiy025.jpg" alt="My Telegram"/></a><a href="https://t.me/abdutools"><img src="https://imgur.com/7WQ8km8.jpg" alt="My Channel"/></a>
