@@ -26,7 +26,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdutools&layout=compact&theme=dark)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/abdu_uyghur)
