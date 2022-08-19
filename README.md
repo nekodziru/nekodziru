@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)  
-![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdutools&layout=compact&theme=dark)
