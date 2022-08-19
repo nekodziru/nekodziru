@@ -30,7 +30,7 @@
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/abdu_uyghur)
-[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/abdutools)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/abdutools)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=FF468F)](https://instagram.com/abdu._uyghur)
 [![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
+[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/abdutools)
