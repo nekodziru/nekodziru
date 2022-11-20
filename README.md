@@ -11,7 +11,7 @@
 ### Статистика на GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxdziru" alt="xxdziru" /></a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdutools&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xxdziru&show_icons=true&hide=prs,issues,contribs&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxdziru&theme=dark" alt="xxdziru" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdziru&label=Profile%20views&color=b80000&style=flat-square" alt="xxdziru" /> </p>
 
