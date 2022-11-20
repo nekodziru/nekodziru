@@ -1,7 +1,7 @@
-[![ABDU](https://imgur.com/7nIaz5Z.jpg)](https://t.me/abdu_uyghur)
+[![ABDU](https://te.legra.ph/file/fcc9f71511e5867b55b9c.jpg)](https://t.me/dziru)
 
 ## Автор различных Телеграм ботов
-Меня зовут ```Абду```**Абдушукурулло Пазилжанов** я занимаюсь с Web, Bot's, IMGUI, PS, AE разработкой с 2020 года.
+```Dziru``` Имя — **Абдушукурулло Пазилжанов** я занимаюсь с Web, Bot's, IMGUI, PS, AE разработкой с 2020 года.
 
 В этом(2022) году основал Телеграм бота, который может скачать видео из **Instagram,TikTok,YouTube,Pinterest и т.д**, которого статистика дошла до 50.000 пользователей. Делюсь своими знаниями в области программирования и создания сайтов. Сформировал в себя собственную методику обучения, которая позволяет мне максимально эффективно осваивать изучаемый материал. И с этим я уже научился создавать боты и сайты самостоятельно и зарабатывать на этом деньги.
 
@@ -9,11 +9,11 @@
 - ⚡ Fun fact **Still stares at the screen for most of the time, clueless of what's happening or what can happen.**
 
 ### Статистика на GitHub
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdutools" alt="AbduTools" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxdziru" alt="xxdziru" /></a> </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdutools&show_icons=true&hide=prs,issues,contribs&theme=dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdutools&theme=dark" alt="AbduTools" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbduTools&label=Profile%20views&color=b80000&style=flat-square" alt="AbduTools" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxdziru&theme=dark" alt="xxdziru" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdziru&label=Profile%20views&color=b80000&style=flat-square" alt="xxdziru" /> </p>
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -26,11 +26,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdutools&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxdziru&layout=compact&theme=dark)
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/abdu_uyghur)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/abdutools)
-[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=FF468F)](https://instagram.com/abdu._uyghur)
-[![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
-[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/abdutools)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dziru)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/xxdziru)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=FF468F)](https://instagram.com/xxdziru)
+[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/aboutdziru)
