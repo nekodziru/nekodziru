@@ -11,7 +11,7 @@
 ### Статистика на GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxdziru" alt="xxdziru" /></a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xxdziru&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nekodziru&show_icons=true&hide=prs,issues,contribs&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxdziru&theme=dark" alt="xxdziru" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdziru&label=Profile%20views&color=b80000&style=flat-square" alt="xxdziru" /> </p>
 
@@ -26,7 +26,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxdziru&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekodziru&layout=compact&theme=dark)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dziru)
