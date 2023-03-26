@@ -9,11 +9,11 @@
 - ⚡ Fun fact **Still stares at the screen for most of the time, clueless of what's happening or what can happen.**
 
 ### Статистика на GitHub
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxdziru" alt="xxdziru" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekodziru" alt="xxdziru" /></a> </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nekodziru&show_icons=true&hide=prs,issues,contribs&theme=dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxdziru&theme=dark" alt="xxdziru" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdziru&label=Profile%20views&color=b80000&style=flat-square" alt="xxdziru" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekodziru&theme=dark" alt="xxdziru" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekodziru&label=Profile%20views&color=b80000&style=flat-square" alt="xxdziru" /> </p>
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
